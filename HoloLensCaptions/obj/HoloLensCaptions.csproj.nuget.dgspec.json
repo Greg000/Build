@@ -72,7 +72,7 @@
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
-          "uap10.0.10240": {
+          "uap10.0.16299": {
             "projectReferences": {
               "D:\\Research\\2017R\\build_new\\GeneratedProjects\\UWP\\Assembly-CSharp\\Assembly-CSharp.csproj": {
                 "projectPath": "D:\\Research\\2017R\\build_new\\GeneratedProjects\\UWP\\Assembly-CSharp\\Assembly-CSharp.csproj"
@@ -88,7 +88,7 @@
         "Microsoft.NETCore.UniversalWindowsPlatform": "[5.0.0, )"
       },
       "frameworks": {
-        "uap10.0.10240": {}
+        "uap10.0.16299": {}
       },
       "runtimes": {
         "win10-arm": {

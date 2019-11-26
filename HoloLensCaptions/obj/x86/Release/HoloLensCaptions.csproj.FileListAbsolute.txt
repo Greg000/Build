@@ -311,3 +311,5 @@ D:\Research\2017R\build_new\HoloLensCaptions\obj\x86\Release\.winmd_cache\$Bridg
 D:\Research\2017R\build_new\HoloLensCaptions\obj\x86\Release\.winmd_cache\$UnityEngineDelegates.winmd_636450130660000000.json
 D:\Research\2017R\build_new\HoloLensCaptions\obj\x86\Release\.winmd_cache\$UnityPlayer.winmd_636450130680000000.json
 D:\Research\2017R\build_new\HoloLensCaptions\obj\x86\Release\.winmd_cache\$WinRTBridge.winmd_636450130700000000.json
+D:\Research\2017R\build_new\HoloLensCaptions\bin\x86\Release\Google.Cloud.Speech.V1.dll
+D:\Research\2017R\build_new\HoloLensCaptions\bin\x86\Release\Google.Cloud.Speech.V1.pdb
