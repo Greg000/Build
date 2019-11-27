@@ -346,6 +346,48 @@
     <AppxPackagedFile Include="C:\Users\grgrgggtr\.nuget\packages\system.xml.xmlserializer\4.0.10\lib\netcore50\System.Xml.XmlSerializer.dll">
       <PackagePath>System.Xml.XmlSerializer.dll</PackagePath>
     </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Research\2017R\build_new\HoloLensCaptions\Google.Api.CommonProtos.dll">
+      <PackagePath>Google.Api.CommonProtos.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Research\2017R\build_new\HoloLensCaptions\Google.Api.Gax.dll">
+      <PackagePath>Google.Api.Gax.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Research\2017R\build_new\HoloLensCaptions\Google.Api.Gax.Grpc.dll">
+      <PackagePath>Google.Api.Gax.Grpc.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Research\2017R\build_new\HoloLensCaptions\Google.Apis.Auth.dll">
+      <PackagePath>Google.Apis.Auth.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Research\2017R\build_new\HoloLensCaptions\Google.Apis.Core.dll">
+      <PackagePath>Google.Apis.Core.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Research\2017R\build_new\HoloLensCaptions\Google.Apis.dll">
+      <PackagePath>Google.Apis.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Research\2017R\build_new\HoloLensCaptions\Google.Cloud.Speech.V1.dll">
+      <PackagePath>Google.Cloud.Speech.V1.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Research\2017R\build_new\HoloLensCaptions\Google.LongRunning.dll">
+      <PackagePath>Google.LongRunning.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Research\2017R\build_new\HoloLensCaptions\Google.Protobuf.dll">
+      <PackagePath>Google.Protobuf.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Research\2017R\build_new\HoloLensCaptions\Grpc.Auth.dll">
+      <PackagePath>Grpc.Auth.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Research\2017R\build_new\HoloLensCaptions\Grpc.Core.Api.dll">
+      <PackagePath>Grpc.Core.Api.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Research\2017R\build_new\HoloLensCaptions\Grpc.Core.dll">
+      <PackagePath>Grpc.Core.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Research\2017R\build_new\HoloLensCaptions\NAudio.dll">
+      <PackagePath>NAudio.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Research\2017R\build_new\HoloLensCaptions\System.Interactive.Async.dll">
+      <PackagePath>System.Interactive.Async.dll</PackagePath>
+    </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Unity 2017.3.0b8\Editor\Data\PlaybackEngines\MetroSupport\Players\UAP\dotnet\x86\Release\UnityEngineProxy.dll">
       <PackagePath>UnityEngineProxy.dll</PackagePath>
     </AppxPackagedFile>
@@ -360,6 +402,9 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Unity 2017.3.0b8\Editor\Data\PlaybackEngines\MetroSupport\Players\UAP\dotnet\x86\Release\UnityEngineDelegates.dll">
       <PackagePath>UnityEngineDelegates.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Research\2017R\build\HoloLensCaptions\netstandard.dll">
+      <PackagePath>netstandard.dll</PackagePath>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Unity 2017.3.0b8\Editor\Data\PlaybackEngines\MetroSupport\Players\UAP\dotnet\x86\Release\BridgeInterface.winmd">
       <PackagePath>BridgeInterface.winmd</PackagePath>

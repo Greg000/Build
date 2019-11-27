@@ -130,17 +130,47 @@
     <None Include="project.json" />
   </ItemGroup>
   <ItemGroup>
+    <Reference Include="Google.Api.CommonProtos">
+      <HintPath>..\..\..\HoloLensCaptions\Google.Api.CommonProtos.dll</HintPath>
+    </Reference>
+    <Reference Include="Google.Api.Gax">
+      <HintPath>..\..\..\HoloLensCaptions\Google.Api.Gax.dll</HintPath>
+    </Reference>
     <Reference Include="Google.Api.Gax.Grpc">
-      <HintPath>C:\Users\grgrgggtr\source\repos\ConsoleApp1\packages\Google.Api.Gax.Grpc.2.10.0\lib\netstandard2.0\Google.Api.Gax.Grpc.dll</HintPath>
+      <HintPath>..\..\..\HoloLensCaptions\Google.Api.Gax.Grpc.dll</HintPath>
+    </Reference>
+    <Reference Include="Google.Apis">
+      <HintPath>..\..\..\HoloLensCaptions\Google.Apis.dll</HintPath>
+    </Reference>
+    <Reference Include="Google.Apis.Auth">
+      <HintPath>..\..\..\HoloLensCaptions\Google.Apis.Auth.dll</HintPath>
+    </Reference>
+    <Reference Include="Google.Apis.Core">
+      <HintPath>..\..\..\HoloLensCaptions\Google.Apis.Core.dll</HintPath>
     </Reference>
     <Reference Include="Google.Cloud.Speech.V1">
-      <HintPath>C:\Users\grgrgggtr\source\repos\ConsoleApp1\packages\Google.Cloud.Speech.V1.1.2.0\lib\netstandard2.0\Google.Cloud.Speech.V1.dll</HintPath>
+      <HintPath>..\..\..\HoloLensCaptions\Google.Cloud.Speech.V1.dll</HintPath>
+    </Reference>
+    <Reference Include="Google.LongRunning">
+      <HintPath>..\..\..\HoloLensCaptions\Google.LongRunning.dll</HintPath>
     </Reference>
     <Reference Include="Google.Protobuf">
-      <HintPath>C:\Users\grgrgggtr\source\repos\ConsoleApp1\packages\Google.Protobuf.3.8.0\lib\netstandard2.0\Google.Protobuf.dll</HintPath>
+      <HintPath>..\..\..\HoloLensCaptions\Google.Protobuf.dll</HintPath>
+    </Reference>
+    <Reference Include="Grpc.Auth">
+      <HintPath>..\..\..\HoloLensCaptions\Grpc.Auth.dll</HintPath>
+    </Reference>
+    <Reference Include="Grpc.Core">
+      <HintPath>..\..\..\HoloLensCaptions\Grpc.Core.dll</HintPath>
+    </Reference>
+    <Reference Include="Grpc.Core.Api">
+      <HintPath>..\..\..\HoloLensCaptions\Grpc.Core.Api.dll</HintPath>
     </Reference>
     <Reference Include="netstandard">
       <HintPath>..\..\..\..\build\HoloLensCaptions\netstandard.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Interactive.Async">
+      <HintPath>..\..\..\HoloLensCaptions\System.Interactive.Async.dll</HintPath>
     </Reference>
     <Reference Include="UnityEngine.TilemapModule">
       <HintPath>$(UnityWSASolutionDir)$(UnityWSASolutionName)\Unprocessed\UnityEngine.TilemapModule.dll</HintPath>
@@ -1732,6 +1762,22 @@
     <Compile Include="$(UnityProjectDir)Assets\TranslateToCamera.cs">
       <Link>TranslateToCamera.cs</Link>
     </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <Analyzer Include="..\..\..\HoloLensCaptions\Google.Api.CommonProtos.dll" />
+    <Analyzer Include="..\..\..\HoloLensCaptions\Google.Api.Gax.dll" />
+    <Analyzer Include="..\..\..\HoloLensCaptions\Google.Api.Gax.Grpc.dll" />
+    <Analyzer Include="..\..\..\HoloLensCaptions\Google.Apis.Auth.dll" />
+    <Analyzer Include="..\..\..\HoloLensCaptions\Google.Apis.Core.dll" />
+    <Analyzer Include="..\..\..\HoloLensCaptions\Google.Apis.dll" />
+    <Analyzer Include="..\..\..\HoloLensCaptions\Google.Cloud.Speech.V1.dll" />
+    <Analyzer Include="..\..\..\HoloLensCaptions\Google.LongRunning.dll" />
+    <Analyzer Include="..\..\..\HoloLensCaptions\Google.Protobuf.dll" />
+    <Analyzer Include="..\..\..\HoloLensCaptions\Grpc.Auth.dll" />
+    <Analyzer Include="..\..\..\HoloLensCaptions\Grpc.Core.Api.dll" />
+    <Analyzer Include="..\..\..\HoloLensCaptions\Grpc.Core.dll" />
+    <Analyzer Include="..\..\..\HoloLensCaptions\NAudio.dll" />
+    <Analyzer Include="..\..\..\HoloLensCaptions\System.Interactive.Async.dll" />
   </ItemGroup>
   <PropertyGroup Condition=" '$(VisualStudioVersion)' == '' or '$(VisualStudioVersion)' &lt; '14.0' ">
     <VisualStudioVersion>14.0</VisualStudioVersion>

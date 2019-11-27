@@ -172,8 +172,47 @@
     </Content>
     <Compile Include="UnityGenerated.cs">
     </Compile>
+    <Reference Include="Google.Api.CommonProtos">
+      <HintPath>.\Google.Api.CommonProtos.dll</HintPath>
+    </Reference>
+    <Reference Include="Google.Api.Gax">
+      <HintPath>.\Google.Api.Gax.dll</HintPath>
+    </Reference>
+    <Reference Include="Google.Api.Gax.Grpc">
+      <HintPath>.\Google.Api.Gax.Grpc.dll</HintPath>
+    </Reference>
+    <Reference Include="Google.Apis">
+      <HintPath>.\Google.Apis.dll</HintPath>
+    </Reference>
+    <Reference Include="Google.Apis.Auth">
+      <HintPath>.\Google.Apis.Auth.dll</HintPath>
+    </Reference>
+    <Reference Include="Google.Apis.Core">
+      <HintPath>.\Google.Apis.Core.dll</HintPath>
+    </Reference>
     <Reference Include="Google.Cloud.Speech.V1">
-      <HintPath>C:\Users\grgrgggtr\source\repos\ConsoleApp1\packages\Google.Cloud.Speech.V1.1.2.0\lib\netstandard2.0\Google.Cloud.Speech.V1.dll</HintPath>
+      <HintPath>.\Google.Cloud.Speech.V1.dll</HintPath>
+    </Reference>
+    <Reference Include="Google.LongRunning">
+      <HintPath>.\Google.LongRunning.dll</HintPath>
+    </Reference>
+    <Reference Include="Google.Protobuf">
+      <HintPath>.\Google.Protobuf.dll</HintPath>
+    </Reference>
+    <Reference Include="Grpc.Auth">
+      <HintPath>.\Grpc.Auth.dll</HintPath>
+    </Reference>
+    <Reference Include="Grpc.Core">
+      <HintPath>.\Grpc.Core.dll</HintPath>
+    </Reference>
+    <Reference Include="Grpc.Core.Api">
+      <HintPath>.\Grpc.Core.Api.dll</HintPath>
+    </Reference>
+    <Reference Include="NAudio">
+      <HintPath>.\NAudio.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Interactive.Async">
+      <HintPath>.\System.Interactive.Async.dll</HintPath>
     </Reference>
     <Reference Include="UnityEngine.TilemapModule">
       <HintPath>.\Unprocessed\UnityEngine.TilemapModule.dll</HintPath>
