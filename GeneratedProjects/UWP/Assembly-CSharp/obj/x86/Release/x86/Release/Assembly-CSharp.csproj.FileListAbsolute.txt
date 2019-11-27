@@ -34,3 +34,4 @@ D:\Research\2017R\build_new\GeneratedProjects\UWP\Assembly-CSharp\obj\x86\Releas
 D:\Research\2017R\build_new\GeneratedProjects\UWP\Assembly-CSharp\obj\x86\Release\x86\Release\qualifiers.txt
 D:\Research\2017R\build_new\GeneratedProjects\UWP\Assembly-CSharp\obj\x86\Release\x86\Release\qualifiers.txt.intermediate
 D:\Research\2017R\build_new\GeneratedProjects\UWP\Assembly-CSharp\obj\x86\Release\x86\Release\MultipleQualifiersPerDimensionFound.txt
+D:\Research\2017R\build_new\GeneratedProjects\UWP\Assembly-CSharp\bin\x86\Release\NAudio.dll

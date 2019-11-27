@@ -166,6 +166,9 @@
     <Reference Include="Grpc.Core.Api">
       <HintPath>..\..\..\HoloLensCaptions\Grpc.Core.Api.dll</HintPath>
     </Reference>
+    <Reference Include="NAudio">
+      <HintPath>..\..\..\HoloLensCaptions\NAudio.dll</HintPath>
+    </Reference>
     <Reference Include="netstandard">
       <HintPath>..\..\..\..\build\HoloLensCaptions\netstandard.dll</HintPath>
     </Reference>

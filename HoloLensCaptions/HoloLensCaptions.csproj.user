@@ -15,4 +15,8 @@
     <DeviceId>3ac5dd08-f3e2-f213-b280-260ca4b060f4</DeviceId>
     <UseEmulator>true</UseEmulator>
   </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)' == 'Debug|x86'">
+    <DeviceId>3ac5dd08-f3e2-f213-b280-260ca4b060f4</DeviceId>
+    <UseEmulator>true</UseEmulator>
+  </PropertyGroup>
 </Project>
